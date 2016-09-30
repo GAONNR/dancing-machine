@@ -9,7 +9,8 @@ alphabet_dict = {'a':ea.A, 'b':ea.B, 'c':ea.C, 'd':ea.D, 'e':ea.E,
                  'u':ea.U, 'v':ea.V, 'w':ea.W, 'x':ea.X, 'y':ea.Y,
                  'z':ea.Z, '+':ea.plus, ':':ea.colon, '.':ea.dot,
                  '0':ea.zero, '1':ea.one, '2':ea.two, '3':ea.three,
-                 '4':ea.four, '6':ea.six, '8':ea.eight, '9':ea.nine}
+                 '4':ea.four, '6':ea.six, '8':ea.eight, '9':ea.nine,
+                 '5':ea.five, '7':ea.seven}
 output = ['','','','','']
 
 if __name__ == '__main__':
